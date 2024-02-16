@@ -1,5 +1,10 @@
 package cuentas;
 
+
+/**
+ * Cream la clase CCuenta, aquest és un comentari per resoldre un exercici de la
+ * Tasca 4 d'Entorns de desenvolupament.
+ */
 public class CCuenta {
 
 
